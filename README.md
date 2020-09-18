@@ -6,10 +6,10 @@
 
  <h3> A little more about me... </h3>
  <ul>
-  - 🔭 I’m currently working on:<b>the Internship Tasks</b>.<br>
-  - 🌱 I’m currently learning:<b>NLP and React</b>.<br>
-  - 💬 Ask me about:<b>Flutter</b>.<br>
-  - 📫 How to reach me:<a href="https://linkedin.com/in/aditya-chavda">LinkedIn</a><br>
+  - 🔭 I’m currently working on <b>the Internship Tasks</b>.<br>
+  - 🌱 I’m currently learning <b>NLP and React</b>.<br>
+  - 💬 Ask me about <b>Flutter</b>.<br>
+  - 📫 How to reach me <a href="https://linkedin.com/in/aditya-chavda">LinkedIn</a><br>
  </ul>
 
 <h3> Languages and Tools: </h3>
