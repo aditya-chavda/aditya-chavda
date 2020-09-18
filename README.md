@@ -4,6 +4,14 @@
 <p><em>Student at <a href="https://www.vgecg.ac.in/">VGEC</a> pursuing BE in Computer Egnineering.</br>Data Science intern @ <a href="https://www.thesparksfoundationsingapore.org/">The Sparks Foundation</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
+ <h3> A little more about me... </h3>
+ <ul>
+  - 🔭 I’m currently working on:<b>the Internship Tasks</b>.<br>
+  - 🌱 I’m currently learning:<b>NLP and React</b>.<br>
+  - 💬 Ask me about:<b>Flutter</b>.<br>
+  - 📫 How to reach me:<a href="https://linkedin.com/in/aditya-chavda">LinkedIn</a><br>
+ </ul>
+
 <h3> Languages and Tools: </h3>
 <p>
   <img alt="Flutter" src="https://img.shields.io/badge/-Flutter-informational?style=flat-square&logo=flutter" />
@@ -18,7 +26,8 @@
 </p>
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to chat!</b> :)</em>
-<!--
+
 <h3>Where to find me</h3>
-<p><a href="https://github.com/aditya-chavda" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://www.linkedin.com/in/thomas-guibert" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<p><a href="https://www.linkedin.com/in/aditya-chavda" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://medium.com/@adityachavda2106" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/Medium-%2312100E.svg?&style=for-the-badge&logo=Medium&logoColor=white" /></a>
 </p>
+<!-- <a href="https://github.com/aditya-chavda" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> 
