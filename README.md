@@ -4,14 +4,6 @@
 <p><em>Student at <a href="https://www.vgecg.ac.in/">VGEC</a> pursuing BE in Computer Egnineering.</br>Data Science intern @ <a href="https://www.thesparksfoundationsingapore.org/">The Sparks Foundation</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
- <h3> A little more about me... </h3>
- <ul>
-  - 🔭 I’m currently working on <b>the Internship Tasks</b>.<br>
-  - 🌱 I’m currently learning <b>NLP and React</b>.<br>
-  - 💬 Ask me about <b>Flutter</b>.<br>
-  - 📫 How to reach me <a href="https://linkedin.com/in/aditya-chavda">LinkedIn</a><br>
- </ul>
-
 <h3> Languages and Tools: </h3>
 <p>
   <img alt="Flutter" src="https://img.shields.io/badge/-Flutter-informational?style=flat-square&logo=flutter" />
@@ -24,6 +16,14 @@
   <img alt="Java" src="https://img.shields.io/badge/-Java-B266FF?style=flat-square&logo=java" />
   <img alt="Git" src="https://img.shields.io/badge/-Git-FF0066?style=flat-square&logo=git" />
 </p>
+
+<h3> A little more about me... </h3>
+ <ul>
+  - 🔭 I’m currently working on <b>the Internship Tasks</b>.<br>
+  - 🌱 I’m currently learning <b>NLP and React</b>.<br>
+  - 💬 Ask me about <b>Flutter</b>.<br>
+  - 📫 How to reach me <a href="https://linkedin.com/in/aditya-chavda">LinkedIn</a><br>
+ </ul>
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to chat!</b> :)</em>
 
